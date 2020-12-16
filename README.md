@@ -4,6 +4,7 @@ The dataset used is [Titanic](https://www.kaggle.com/c/titanic)
 AWS has their own example repo [here](https://github.com/aws/amazon-sagemaker-examples), I have also refered it for some of my code.  
 
 In this repo you can find:
+- Visualization and feature engineering for the data
 - How to train and deploy models
 - How to use SageMaker XGBoost as a built-in algorithm
 - How to use SageMaker XGBoost as a framework
